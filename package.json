@@ -1,0 +1,11 @@
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "1.12",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+   },
+   "dependencies": {
+   }
+}
